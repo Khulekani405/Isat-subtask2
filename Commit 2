@@ -1,0 +1,3 @@
+Add hexadecimal conversion functions and streamline input/output formatting
+Implemented decimalToHexadecimal() and hexadecimalToDecimal() functions.
+Used stringstream and uppercase formatting for hex output consistency.

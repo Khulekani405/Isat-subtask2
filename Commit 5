@@ -1,0 +1,2 @@
+Add input validation and program exit option
+Implemented input validation for menu choices and added exit option (choice 6) to terminate program gracefully.

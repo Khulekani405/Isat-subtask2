@@ -1,0 +1,2 @@
+Initial commit: Implement basic decimal to binary and binary to decimal conversion functions
+Added decimalToBinary() and binaryToDecimal() functions for number base conversions.

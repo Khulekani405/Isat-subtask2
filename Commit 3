@@ -1,0 +1,3 @@
+Create interactive menu for selecting conversion operations
+Developed a user menu to select between decimal-binary, binary-decimal, decimal-hex, and hex-decimal conversions.
+Added input prompts and output display for each conversion option.
